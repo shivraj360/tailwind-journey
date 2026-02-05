@@ -1,0 +1,17 @@
+Create an index.html file
+Paste this CDN link inside <head> tag  ----------- "CDN LINK HUM TAILWINDCSSS.COM KI OFFICIAL WEBSITE SE LE LENGE
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Tailwind Setup</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-900 text-white">
+
+  <h1 class="text-3xl font-bold text-center mt-10">
+    Tailwind CSS CDN Setup Done 
+  </h1>
+
+</body>
+</html>
